@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-11-12T11:48:48 IST" name="Default suite" finished-at="2026-11-12T11:48:50 IST" duration-ms="1076">
+  <suite started-at="2026-11-12T12:04:14 IST" name="Default suite" finished-at="2026-11-12T12:04:16 IST" duration-ms="1531">
     <groups>
     </groups>
-    <test started-at="2026-11-12T11:48:48 IST" name="Default test" finished-at="2026-11-12T11:48:50 IST" duration-ms="1076">
-      <class name="basics.FirstGetRequest">
-        <test-method signature="FirstGet()[pri:0, instance:basics.FirstGetRequest@6b2ea799]" started-at="2026-11-12T11:48:49 IST" name="FirstGet" finished-at="2026-11-12T11:48:50 IST" duration-ms="1030" status="PASS">
+    <test started-at="2026-11-12T12:04:14 IST" name="Default test" finished-at="2026-11-12T12:04:16 IST" duration-ms="1531">
+      <class name="basics.AssertField">
+        <test-method signature="assertField()[pri:0, instance:basics.AssertField@6b2ea799]" started-at="2026-11-12T12:04:14 IST" name="assertField" finished-at="2026-11-12T12:04:16 IST" duration-ms="1487" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- FirstGet -->
-      </class> <!-- basics.FirstGetRequest -->
+        </test-method> <!-- assertField -->
+      </class> <!-- basics.AssertField -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
