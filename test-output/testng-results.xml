@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-11-12T12:04:14 IST" name="Default suite" finished-at="2026-11-12T12:04:16 IST" duration-ms="1531">
+  <suite started-at="2026-11-13T21:26:57 IST" name="Default suite" finished-at="2026-11-13T21:26:58 IST" duration-ms="1316">
     <groups>
     </groups>
-    <test started-at="2026-11-12T12:04:14 IST" name="Default test" finished-at="2026-11-12T12:04:16 IST" duration-ms="1531">
-      <class name="basics.AssertField">
-        <test-method signature="assertField()[pri:0, instance:basics.AssertField@6b2ea799]" started-at="2026-11-12T12:04:14 IST" name="assertField" finished-at="2026-11-12T12:04:16 IST" duration-ms="1487" status="PASS">
+    <test started-at="2026-11-13T21:26:57 IST" name="Default test" finished-at="2026-11-13T21:26:58 IST" duration-ms="1316">
+      <class name="basics.GetWithPathParameter">
+        <test-method signature="pathParameter()[pri:0, instance:basics.GetWithPathParameter@6b2ea799]" started-at="2026-11-13T21:26:57 IST" name="pathParameter" finished-at="2026-11-13T21:26:58 IST" duration-ms="1278" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- assertField -->
-      </class> <!-- basics.AssertField -->
+        </test-method> <!-- pathParameter -->
+      </class> <!-- basics.GetWithPathParameter -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

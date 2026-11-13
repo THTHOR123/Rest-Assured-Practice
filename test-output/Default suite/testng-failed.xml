@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basics.AssertField">
+      <class name="basics.GetWithPathParameter">
         <methods>
-          <include name="assertField"/>
+          <include name="pathParameter"/>
         </methods>
-      </class> <!-- basics.AssertField -->
+      </class> <!-- basics.GetWithPathParameter -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
